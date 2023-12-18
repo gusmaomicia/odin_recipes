@@ -6,3 +6,11 @@ body {
 h1 {
     text-align: center;
 }
+
+.ingredients.list {
+    background-color: white;
+}
+
+.steps.list {
+    background-color: white;
+}
