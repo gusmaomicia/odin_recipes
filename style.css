@@ -2,11 +2,3 @@ body {
     font-family: "Lucida Console", "Courier New", monospace;
     background-color: lightyellow;
 }
-
-h1 {
-    text-align: center;
-}
-
-button {
-    background-color: white;
-}
