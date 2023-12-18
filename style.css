@@ -14,3 +14,8 @@ h1 {
 .steps.list {
     background-color: white;
 }
+
+#description {
+    background-color: white;
+    font-size: 17px;
+}
